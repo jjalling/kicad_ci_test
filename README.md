@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/INTI-CMNB/kicad_ci_test/workflows/CI/badge.svg)
 
-Test for Continuous Integration using KiCad.
+.Test for Continuous Integration using KiCad.
 
 This repo contains two examples, one is the simplest situation and the other complicates things a little bit.
 
